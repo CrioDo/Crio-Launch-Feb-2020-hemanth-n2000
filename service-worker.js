@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-hemanth-n2000/precache-manifest.a6aed52c69dd6253a49b6b44ab75894a.js"
+  "/Crio-Launch-Feb-2020-hemanth-n2000/precache-manifest.6e297ed370ed17999286df63e3cd8f01.js"
 );
 
 self.addEventListener('message', (event) => {

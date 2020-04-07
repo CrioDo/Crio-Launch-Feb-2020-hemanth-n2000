@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e89eff30128c90cc2b87ce918654a9f2",
+    "revision": "f80447bd0b2fac615cf317d50a1c19b6",
     "url": "/Crio-Launch-Feb-2020-hemanth-n2000/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-hemanth-n2000/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "eabb0115b503250a91b5",
+    "revision": "bb33fa9b35add8680628",
     "url": "/Crio-Launch-Feb-2020-hemanth-n2000/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-hemanth-n2000/static/js/2.5e6d28fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eabb0115b503250a91b5",
-    "url": "/Crio-Launch-Feb-2020-hemanth-n2000/static/js/main.6071009f.chunk.js"
+    "revision": "bb33fa9b35add8680628",
+    "url": "/Crio-Launch-Feb-2020-hemanth-n2000/static/js/main.9fceacdd.chunk.js"
   },
   {
     "revision": "d6da7dece88f3c9ce3a4",
